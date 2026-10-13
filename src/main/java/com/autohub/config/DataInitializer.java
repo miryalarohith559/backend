@@ -3,6 +3,7 @@ package com.autohub.config;
 import com.autohub.model.*;
 import com.autohub.repository.*;
 import org.springframework.boot.CommandLineRunner;
+import org.springframework.context.annotation.Profile;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Component;
 
@@ -10,6 +11,7 @@ import java.time.LocalDate;
 import java.util.List;
 
 @Component
+@Profile("!render")
 public class DataInitializer implements CommandLineRunner {
 
     private final UserRepository userRepository;

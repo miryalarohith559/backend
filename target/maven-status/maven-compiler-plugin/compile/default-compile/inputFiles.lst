@@ -5,6 +5,7 @@ C:\Auto-Hub-main\backend\src\main\java\com\autohub\controller\AuthController.jav
 C:\Auto-Hub-main\backend\src\main\java\com\autohub\controller\BookingController.java
 C:\Auto-Hub-main\backend\src\main\java\com\autohub\controller\CustomerController.java
 C:\Auto-Hub-main\backend\src\main\java\com\autohub\controller\DashboardController.java
+C:\Auto-Hub-main\backend\src\main\java\com\autohub\controller\HealthController.java
 C:\Auto-Hub-main\backend\src\main\java\com\autohub\controller\InvoiceController.java
 C:\Auto-Hub-main\backend\src\main\java\com\autohub\controller\PaymentController.java
 C:\Auto-Hub-main\backend\src\main\java\com\autohub\controller\ServiceCatalogController.java

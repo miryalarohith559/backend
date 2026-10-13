@@ -11,6 +11,7 @@ com\autohub\controller\CustomerController.class
 com\autohub\repository\InvoiceRepository.class
 com\autohub\service\VehicleService.class
 com\autohub\dto\BookingRequest.class
+com\autohub\controller\HealthController.class
 com\autohub\dto\RegisterRequest.class
 com\autohub\dto\DashboardStatsDTO.class
 com\autohub\model\User.class
